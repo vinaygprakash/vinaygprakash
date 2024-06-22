@@ -1,4 +1,5 @@
-![Black Minimal Motivation Quote LinkedIn Banner (1)](https://github.com/rohi0004/rohi0004/assets/87049122/9d97ad0d-f68d-4c36-bd85-20db15c0080d)
+![Black Minimal Motivation Quote LinkedIn Banner (1)](![WhatsApp Image 2024-06-23 at 02 04 39](https://github.com/vinaygprakash/vinaygprakash/assets/116455167/097adea6-3410-4896-a5ac-19a2d9c662d9)
+)
 
 
 <h1 align="center">Hi 👋, I'm Vinay Prakash </h1>

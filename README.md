@@ -1,4 +1,4 @@
-![Black Minimal Motivation Quote LinkedIn Banner (1)](![WhatsApp Image 2024-06-23 at 02 04 39](https://github.com/vinaygprakash/vinaygprakash/assets/116455167/097adea6-3410-4896-a5ac-19a2d9c662d9)
+(![WhatsApp Image 2024-06-23 at 02 04 39](https://github.com/vinaygprakash/vinaygprakash/assets/116455167/097adea6-3410-4896-a5ac-19a2d9c662d9)
 )
 
 

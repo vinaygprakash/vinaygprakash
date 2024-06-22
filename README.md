@@ -1,18 +1,18 @@
 ![Black Minimal Motivation Quote LinkedIn Banner (1)](https://github.com/rohi0004/rohi0004/assets/87049122/9d97ad0d-f68d-4c36-bd85-20db15c0080d)
 
 
-<h1 align="center">Hi 👋, I'm Rohit Kumar </h1>
+<h1 align="center">Hi 👋, I'm Vinay Prakash </h1>
 <h3 align="center">A passionate MERN Stack Web Developer.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=error0004&label=Profile%20views&color=0e75b6&style=flat" alt="error0004" /> </p>
 <p align="center">
-- 📫 How to reach me **sahrohikumar10@gmail.com**
+- 📫 How to reach me **prakashvinayiiitk@gmail.com**
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/rohi0004" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohi0004" height="30" width="40" /></a>
+  <a href="www.linkedin.com/in/vinayprakashiiitk" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohi0004" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/rohi0004" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohi0004" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/_rohi0004" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rohi0004" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/vinayprakash009" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rohi0004" height="30" width="40" /></a>
 
 </p>
 <h3 align="center">Languages and Tools:</h3>

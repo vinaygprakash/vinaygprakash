@@ -26,3 +26,6 @@
 <p align="center"><img align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=vinaygprakash&show_icons=true&locale=en&layout=compact" alt="rohi0004" /></p>
 
 <p align="center">&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=vinaygprakash&show_icons=true&locale=en" alt="rohi0004" /></p>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/SumitMARSS/SumitMARSS/output/snake.svg" alt="Snake animation" />
